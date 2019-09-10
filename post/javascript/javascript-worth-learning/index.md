@@ -11,7 +11,7 @@ I was searching for some JavaScript related questions on Google when I noticed G
 
 Those got my attention.
 
-Clicking the answer of led me to a reassuring answer, as I expected without a doubt. But I also had my own thoughts on the topic, so I though "let me write them"!
+Clicking the answer of led me to a reassuring answer, as I expected without a doubt. But I also had my own thoughts on the topic, so I thought "let me write them"!
 
 Let's get it straight: **JavaScript is more alive than ever**.
 
